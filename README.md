@@ -1,27 +1,27 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a ruby on rails web application !
+
+This is a simple & light web app for you , yeah it's an online todolist web application !
+
+You can write your Important works for yourself ( as a reminder ) so it help you to don't forget your important works !
+
+You can use this app without registeration , I hope you Enjoy !
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version : ruby 3.0.2p107
 
-* System dependencies
+* Rails version : Rails 7.0.3.1
 
-* Configuration
+* System dependencies :  Ruby , Rails , SQLite3 , Postgresql , Node.js , Yarn
 
-* Database creation
+Database : Postgresql
 
-* Database initialization
+GemFiles : pg , rails_12factor
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Front-End framework that I Used For This Project is : Bootstrap
 
 * ...
-# Ruby-On-Rails-Todo-List-Web-Application
-# Ruby-On-Rails-Todo-List-Web-Application
-# Ruby-Todo
+
+# Developer : Mohammad Babaee
